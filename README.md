@@ -55,7 +55,7 @@ streamlit run app.py
 ## 🌐 Despliegue en Render
 
 La app está desplegada en:  
-👉 [https://tu-nombre.onrender.com](https://tu-nombre.onrender.com) ← *(agrega la URL cuando la tengas)*
+👉 [https://dashboard-sprint-7.onrender.com](https://dashboard-sprint-7.onrender.com)
 
 ---
 
