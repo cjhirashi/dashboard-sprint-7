@@ -4,7 +4,6 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-App-red?logo=streamlit)](https://streamlit.io/)
 [![Plotly](https://img.shields.io/badge/Plotly-Graphs-orange?logo=plotly)](https://plotly.com/python/)
 [![Deploy](https://img.shields.io/badge/Deploy-Render-success?logo=render)](https://dashboard-sprint-7.onrender.com)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 ---
 
@@ -87,9 +86,4 @@ La aplicación está desplegada en Render:
 
 📧 \cjhirashi@gmail.com · 🌐 \LinkedIn: [cjhirashi](https://www.linkedin.com/in/cjhirashi)
 
----
-
-## 📜 Licencia
-
-Este proyecto está bajo la licencia **MIT** – consulta el archivo [LICENSE](LICENSE) para más detalles.
 
