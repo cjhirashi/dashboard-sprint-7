@@ -83,7 +83,8 @@ La aplicación está desplegada en Render:
 ## 👨‍💻 Autor
 
 **Carlos Jiménez Hirashi**
-💼 Data Scientist | Python & Machine Learning Enthusiast
+💼 Data Scientist Jr. | Python & Machine Learning
+
 📧 \cjhirashi@gmail.com · 🌐 \LinkedIn: [cjhirashi](https://www.linkedin.com/in/cjhirashi)
 
 ---
