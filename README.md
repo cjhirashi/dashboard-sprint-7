@@ -54,7 +54,7 @@ Permite explorar la relación entre el **kilometraje (`odometer`)** y el **preci
 1. **Clonar repositorio**
 
    ```bash
-   git clone https://github.com/tu_usuario/streamlit-dashboard.git
+   git clone https://github.com/cjhirashi/streamlit-dashboard.git
    cd streamlit-dashboard
    ```
 
@@ -84,7 +84,7 @@ La aplicación está desplegada en Render:
 
 **Carlos Jiménez Hirashi**
 💼 Data Scientist | Python & Machine Learning Enthusiast
-📧 \[Tu correo aquí] · 🌐 \[LinkedIn/GitHub aquí]
+📧 \cjhirashi@gmail.com · 🌐 \LinkedIn: [cjhirashi](www.linkedin.com/in/cjhirashi)
 
 ---
 
