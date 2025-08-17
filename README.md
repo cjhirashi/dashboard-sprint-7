@@ -84,7 +84,7 @@ La aplicación está desplegada en Render:
 
 **Carlos Jiménez Hirashi**
 💼 Data Scientist | Python & Machine Learning Enthusiast
-📧 \cjhirashi@gmail.com · 🌐 \LinkedIn: [cjhirashi](www.linkedin.com/in/cjhirashi)
+📧 \cjhirashi@gmail.com · 🌐 \LinkedIn: [cjhirashi](https://www.linkedin.com/in/cjhirashi)
 
 ---
 
