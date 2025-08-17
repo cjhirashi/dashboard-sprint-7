@@ -54,8 +54,8 @@ Permite explorar la relación entre el **kilometraje (`odometer`)** y el **preci
 1. **Clonar repositorio**
 
    ```bash
-   git clone https://github.com/cjhirashi/streamlit-dashboard.git
-   cd streamlit-dashboard
+   git clone https://github.com/cjhirashi/dashboard-sprint-7.git
+   cd dashboard-sprint-7
    ```
 
 2. **Crear entorno e instalar dependencias**
